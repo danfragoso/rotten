@@ -1,4 +1,6 @@
-// rotten v0.1, feito por Danilo Fragoso em 11/08/2016
+//rotten v0.1, feito por Danilo Fragoso em 11/08/2016
+//esse script rotaciona as letras do alfabeto em ROTn ou como na cifra de cesar.
+
 #include<stdio.h>
 #include<string.h>
 
