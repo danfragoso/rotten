@@ -12,9 +12,9 @@ Ex: rotten -rot eMbARalHaisSoAQuI
 
 Há dois binários já compilados, um para OSX e outro para Linux. os downloads podem ser encontrados aqui, ou na aba de releases do github.
 
-#####OSX
+[__OSX__](https://github.com/danfragoso/rotten/releases/download/0.1/rotten_osx64)
 
-#####Linux64:
+[__Linux64__](https://github.com/danfragoso/rotten/releases/download/0.1/rotten_linux64)
 
 ###Licença
 
